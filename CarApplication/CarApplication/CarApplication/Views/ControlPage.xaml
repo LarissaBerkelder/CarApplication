@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarApplication.Views.ControlPage"
+             BackgroundImageSource="test2.png"
+             NavigationPage.HasNavigationBar="False">
+
+
+    <Grid Grid.Row="0"
+              RowDefinitions="100,400,*">
+
+        <Frame Grid.Row="1"
+               BackgroundColor="Transparent">
+
+            <Grid RowDefinitions="10,300,50">
+
+                <Grid Grid.Row="1"
+                      RowDefinitions="100,100,100"
+                      ColumnDefinitions="*,*,*">
+
+                    <ImageButton Grid.Row="0"
+                                 Grid.Column="1"
+                                 Source="Up.png"
+                                 BackgroundColor="Transparent"
+                                 IsPressed="{Binding UpPressed}"/>
+
+                    <ImageButton Grid.Row="1"
+                                 Grid.Column="0"
+                                 Source="Left.png"
+                                 BackgroundColor="Transparent"
+                                 IsPressed="{Binding LeftPressed}"/>
+
+                    <ImageButton Grid.Row="1"
+                                 Grid.Column="2"
+                                 Source="Right.png"
+                                 BackgroundColor="Transparent"
+                                 IsPressed="{Binding RightPressed}"/>
+
+                    <ImageButton Grid.Row="2"
+                                 Grid.Column="1"
+                                 Source="Down.png"
+                                 BackgroundColor="Transparent"
+                                 IsPressed="{Binding DownPressed}"/>
+
+
+                </Grid>
+                
+            </Grid>
+            
+        </Frame>
+        
+    </Grid>
+        
+</ContentPage>

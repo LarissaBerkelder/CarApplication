@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarApplication.Views.ConnectBluetoothPage"
+             BackgroundImageSource="test2.png"
+             NavigationPage.HasNavigationBar="False">
+
+
+    <Grid RowDefinitions="300,*">
+
+        <Grid Grid.Row="0"
+              RowDefinitions="50,100,300,*">
+
+            <Label Grid.Row="1"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   Text="{Binding Label}"
+                   TextColor="White"
+                   FontSize="30"
+                   FontFamily="RobotoMedium"/>
+
+            <ActivityIndicator Grid.Row="2"
+                               IsRunning="True"
+                               IsVisible="{Binding ActivityIndicator}"
+                               VerticalOptions="Start"
+                               Scale="0.8"
+                               Color="White" />
+        </Grid>
+
+    </Grid>
+
+</ContentPage>

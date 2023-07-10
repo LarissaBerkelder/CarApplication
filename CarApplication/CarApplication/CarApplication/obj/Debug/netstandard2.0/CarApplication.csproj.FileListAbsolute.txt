@@ -1,0 +1,16 @@
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\bin\Debug\netstandard2.0\CarApplication.deps.json
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\bin\Debug\netstandard2.0\CarApplication.dll
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\bin\Debug\netstandard2.0\ref\CarApplication.dll
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\bin\Debug\netstandard2.0\CarApplication.pdb
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\CarApplication.csproj.AssemblyReference.cache
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\CarApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\Views\ConnectBluetoothPage.xaml.g.cs
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\CarApplication.AssemblyInfoInputs.cache
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\CarApplication.AssemblyInfo.cs
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\CarApplication.csproj.CoreCompileInputs.cache
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\CarApplication.dll
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\refint\CarApplication.dll
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\CarApplication.pdb
+D:\Technische informatica 2\CAD\CarApplication\CarApplication\CarApplication\obj\Debug\netstandard2.0\Views\ControlPage.xaml.g.cs

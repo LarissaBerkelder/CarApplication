@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfd36B4ucQZ5GSqN4PZ6m2RByDTolcpqoEu+AbO3Jo1QoqM4XciTkzRQchoyTO0bUOBQDpTaFiqr4UUbhHalVw==",
+  "success": true,
+  "projectFilePath": "D:\\Technische informatica 2\\CAD\\CarApplication\\CarApplication\\CarApplication\\CarApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\plugin.ble\\2.1.3\\plugin.ble.2.1.3.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\xamarin.essentials\\1.7.7\\xamarin.essentials.1.7.7.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}
